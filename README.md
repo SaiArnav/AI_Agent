@@ -13,10 +13,10 @@ Team Name: "Ai For Good"
 
 Members:-
 ```
-- Rachamalla Sai Arnav Goud - 25881A05DW -> Team Lead
-- Mohammed Faroz Khan - 25881A05CQ
-- Vishvas Polepaka - 25881A05EN
-- Kunduru Bharath Reddy - 25881A05CL
+- Rachamalla Sai Arnav Goud  --> Team Lead
+- Mohammed Faroz Khan 
+- Vishvas Polepaka 
+- Kunduru Bharath Reddy 
 ```
 ---
 ## Features
@@ -43,9 +43,9 @@ Create a table.
 Technology	      Purpose
 ------------------------------------------------
 Python	          Backend
-LangChain	        RAG Pipeline
-LangGraph	        Workflow
-ChromaDB	        Vector Database
+LangChain	  RAG Pipeline
+LangGraph	  Workflow
+ChromaDB	  Vector Database
 OpenAI	          LLM + Embeddings
 Tavily	          Live Search
 Semantic          Scholar	Academic Papers
